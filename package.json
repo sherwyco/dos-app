@@ -14,7 +14,7 @@
     "@testing-library/user-event": "^7.2.1",
     "chart.js": "^2.9.3",
     "graphql": "^15.3.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "material-table": "1.67.1",
     "material-ui-phone-number": "^2.2.6",
     "react": "^16.13.1",
