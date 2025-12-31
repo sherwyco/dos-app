@@ -15,7 +15,7 @@
     "chart.js": "^2.9.3",
     "graphql": "^15.3.0",
     "lodash": "^4.17.19",
-    "material-table": "1.67.1",
+    "material-table": "1.69.3",
     "material-ui-phone-number": "^2.2.6",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.10.0",
@@ -23,7 +23,7 @@
     "react-hook-form": "^6.2.0",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.5"
   },
   "scripts": {
